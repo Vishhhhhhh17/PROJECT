@@ -1,0 +1,4 @@
+OrderID,ProductID,Category,Supplier,Region,Channel,Returned,Quantity,Price,return_probability
+1003,P003,2,2,0,1,1,1,500,0.8541723106791562
+1005,P005,1,1,1,1,1,1,200,0.7619178960377506
+1007,P007,0,2,0,0,1,1,40,0.8974819927934585
